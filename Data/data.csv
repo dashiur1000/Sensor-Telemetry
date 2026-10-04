@@ -1,0 +1,6 @@
+Timestamp,DeviceId,MetricName,Value,Status
+2026-09-27T12:00:00Z,DEV-001,CPU_Usage,45.5,OK
+2026-09-27T12:01:00Z,DEV-002,Memory_Usage,82.1,Warning
+2026-09-27T12:02:00Z,DEV-001,Temperature,65.0,OK
+2026-09-27T12:03:00Z,DEV-003,CPU_Usage,91.2,Critical
+2026-09-27T12:04:00Z,DEV-002,Disk_Usage,55.0,OK
